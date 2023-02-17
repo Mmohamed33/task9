@@ -1,0 +1,29 @@
+.container{
+    width: 80%;
+    background-color: #ec407a;
+    text-align: center;
+    height: 100vh;
+    position: relative;
+}
+#inputfiled{
+    width: 250px;
+    height: 25px;
+}
+.btn{
+    height: 31px;
+    cursor: pointer;
+}
+h1{
+    color: white;
+    font-size: 25px;
+}
+.To-Do{
+    background-color: white;
+    width: 29%;
+    height: 200px;
+    position: absolute;
+    right: 365px;
+    margin-top: 20px;
+    
+
+}
